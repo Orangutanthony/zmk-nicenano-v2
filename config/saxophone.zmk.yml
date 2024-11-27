@@ -1,6 +1,6 @@
 file_format: "1"
 id: saxophone
-name: Saxophone
+name: saxophone
 type: shield
 url: https://github.com/Spaceboards/SpaceboardsHardware/tree/master/Keyboards/2%25%20Milk
 requires: [pro_micro]
