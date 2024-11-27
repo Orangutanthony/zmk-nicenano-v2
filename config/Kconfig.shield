@@ -2,4 +2,4 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_SAXOPHONE
-    def_bool $(shields_list_contains,saxophone)
+    def_bool $(shields_list_contains,Saxophone)
